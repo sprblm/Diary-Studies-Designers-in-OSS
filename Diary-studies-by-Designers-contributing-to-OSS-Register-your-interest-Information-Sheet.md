@@ -45,6 +45,7 @@ We understand that some OSS projects may want you to communicate your involvemen
 If you’re interested in participating, please fill out this short questionnaire about your history and interests in design and OSS. We will make our selections informed by your availability over the diary study timeline, interest in participation in the research and your descriptions of the OSS projects you contribute to.
 
 Thank you,
+
 From the team at Superbloom
 
 

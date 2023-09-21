@@ -3,6 +3,14 @@ Funded by [OCEAN](https://vermontcomplexsystems.org/partner/OCEAN/) we asked des
 
 This is where the information for setting up diary studies as well as the anonymised weekly diary reports from designers contributing to OSS will be housed.
 
+# Read the final findings document
+
+You can read 
+
+[As a markdown file in this repository here](https://github.com/simplysecure/Diary-Studies-Designers-in-OSS/blob/main/findings-report.md)
+
+[As a .pdf file hosted in this respoitory here](https://github.com/simplysecure/Diary-Studies-Designers-in-OSS/blob/main/Designers%20in%20OSS_%20A%20summary%20of%20our%20ten-sixteen%20week%20diary%20study%20of%20designers%20contributing%20to%20OSS..pdf)
+
 ---
 
 # Background Information
@@ -27,7 +35,7 @@ OCEAN’s mission is to ‘study how open source communities come together to so
 
 
 ## Outputs from the study
-- 5 diary studies
-- Analysis/‘Coding’ of diary studies
-- Results report
-- Article/Blog post
+- 5 diary studies - [Raw data viewable here](https://github.com/simplysecure/Diary-Studies-Designers-in-OSS/tree/main/raw-data)
+- Analysis/‘Coding’ of diary studies - [Raw data viewable here](https://github.com/simplysecure/Diary-Studies-Designers-in-OSS/tree/main/raw-data)
+- Results report/findings document - [PDF Document here](https://github.com/simplysecure/Diary-Studies-Designers-in-OSS/blob/main/Designers%20in%20OSS_%20A%20summary%20of%20our%20ten-sixteen%20week%20diary%20study%20of%20designers%20contributing%20to%20OSS..pdf)
+- Article/Blog post hosted on Superbloom's website - [WIP]()

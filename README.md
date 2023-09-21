@@ -11,6 +11,8 @@ You can read
 
 [As a .pdf file hosted in this respoitory here](https://github.com/simplysecure/Diary-Studies-Designers-in-OSS/blob/main/Designers%20in%20OSS_%20A%20summary%20of%20our%20ten-sixteen%20week%20diary%20study%20of%20designers%20contributing%20to%20OSS..pdf)
 
+![Cover image for Designers in OSS: Summary of diary studies of designers contributing to OSS illustration of a person with their back to the camera with a laptop and book open in front of them](https://raw.githubusercontent.com/simplysecure/Diary-Studies-Designers-in-OSS/main/images/blog-image-2.jpg)
+
 ---
 
 # Background Information

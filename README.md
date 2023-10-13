@@ -40,4 +40,4 @@ OCEAN’s mission is to ‘study how open source communities come together to so
 - 5 diary studies - [Raw data viewable here](https://github.com/simplysecure/Diary-Studies-Designers-in-OSS/tree/main/raw-data)
 - Analysis/‘Coding’ of diary studies - [Raw data viewable here](https://github.com/simplysecure/Diary-Studies-Designers-in-OSS/tree/main/raw-data)
 - Results report/findings document - [PDF Document here](https://github.com/simplysecure/Diary-Studies-Designers-in-OSS/blob/main/Designers%20in%20OSS_%20A%20summary%20of%20our%20ten-sixteen%20week%20diary%20study%20of%20designers%20contributing%20to%20OSS..pdf)
-- Article/Blog post hosted on Superbloom's website - [View the blog here](https://superbloom.design/learning/blog/the-secret-lives-of-open-source-designers/)
+- Article/Blog post hosted on Superbloom's website - [View the blog here](https://superbloom.design/learning/blog/the-secret-life-of-open-source-designers/)
